@@ -1,4 +1,4 @@
-num = int(input("enter a number: "))
+ num = int(input("enter a number: "))
 factorial = 1
 if num <0:
     print("doesnot exist for negative numbers.")
